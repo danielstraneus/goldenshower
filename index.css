@@ -17,7 +17,7 @@ body:before {
   opacity: 0.03;
   z-index: 1000000;
   pointer-events: none;
-  background: url(/noise.gif);
+  background: url(./noise.gif);
 }
 
 #canvas1 {
